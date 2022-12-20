@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @rennis_pinheiro
-- 👀 I’m interested in be a good programmer
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: rennissteam@alu.ufc.br
+Hi, i'm Rennis Pinheiro, i study in one of the most conceptualized university
+of Brazil in my area, the Universidade Federal do Ceará, where i am doing my
+graduation and currently being on 4th period.
 
-<!---
-moonchilds2/moonchilds2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+For now i have intermediary knowledge at the following programming languages:
+C, C++, HTML and CSS.
+
+Besides projects in my github i want to put some of my study summary that i use
+to keep my academic performance on a high level.
