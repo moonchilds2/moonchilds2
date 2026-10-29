@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rennis-pinheiro/"><img src="https://img.shields.io/badge/LinkedIn_Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rennissteam@gmail.com"><img src="https://img.shields.io/badge/E--mail_Enviar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/rennis-pinheiro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rennissteam@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   <img src="https://komarev.com/ghpvc/?username=moonchilds2&label=Visitas&color=2F81F7&style=for-the-badge" alt="Contador de visitas" />
 </p>
 
@@ -97,8 +97,8 @@ I'm open to remote junior full stack and web development opportunities. [Connect
 ## 📊 Atividade no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=moonchilds2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonchilds2&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="190" src="https://raw.githubusercontent.com/moonchilds2/moonchilds2/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
+  <img height="190" src="https://raw.githubusercontent.com/moonchilds2/moonchilds2/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
@@ -121,7 +121,7 @@ Escolha o canal que combina com você:
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rennissteam@gmail.com&su=Oportunidade%20de%20trabalho&body=Ol%C3%A1%2C%20Rennis%21%0A%0AEmpresa%3A%0AVaga%3A%0AModelo%20%28remoto%2Fh%C3%ADbrido%29%3A%0ALink%20ou%20detalhes%3A%0A"><img src="https://img.shields.io/badge/Falar_sobre_uma_vaga-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Falar sobre uma vaga" /></a>
   <a href="https://www.linkedin.com/in/rennis-pinheiro/"><img src="https://img.shields.io/badge/Chamar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Chamar no LinkedIn" /></a>
-  <a href="https://github.com/moonchilds2/moonchilds2/issues/new?title=Ol%C3%A1%2C%20Rennis%21&body=Oi%2C%20vim%20pelo%20seu%20perfil%20e%20queria%20dizer%20que..."><img src="https://img.shields.io/badge/Deixar_um_recado-F0883E?style=for-the-badge&logo=github&logoColor=white" alt="Deixar um recado" /></a>
+  <a href="https://github.com/moonchilds2/moonchilds2/issues/new?title=Ol%C3%A1%2C%20Rennis%21"><img src="https://img.shields.io/badge/Deixar_um_recado-F0883E?style=for-the-badge&logo=github&logoColor=white" alt="Deixar um recado" /></a>
 </p>
 
 <p align="center">
