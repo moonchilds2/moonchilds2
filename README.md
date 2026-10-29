@@ -1,22 +1,29 @@
 <h1 align="center">Olá, eu sou o Rennis 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/moonchilds2">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2F81F7&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack+J%C3%BAnior;Python+%C2%B7+JavaScript+%C2%B7+SQL%2FPostgreSQL;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFC;Dispon%C3%ADvel+para+trabalho+100%25+remoto" alt="Rennis Pinheiro - Desenvolvedor Full Stack Júnior" />
-  </a>
+  <b>Desenvolvedor Full Stack Júnior</b> · Python · JavaScript · SQL/PostgreSQL<br />
+  Ciência da Computação na UFC · Russas, Ceará
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rennispinheiro"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rennissteam@gmail.com"><img src="https://img.shields.io/badge/E--mail-Enviar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&height=40&lines=Sites+e+portais+para+clientes+reais%3BAutoma%C3%A7%C3%A3o+de+processos+com+scripts%3BAn%C3%A1lise+de+dados+com+Python+e+SQL%3BAberto+a+oportunidades+100%25+remotas" alt="Sites e portais para clientes reais · Automação de processos · Análise de dados · Aberto a oportunidades 100% remotas" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rennis-pinheiro/"><img src="https://img.shields.io/badge/LinkedIn_Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rennissteam@gmail.com"><img src="https://img.shields.io/badge/E--mail_Enviar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   <img src="https://komarev.com/ghpvc/?username=moonchilds2&label=Visitas&color=2F81F7&style=for-the-badge" alt="Contador de visitas" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Aberto_a_vagas_remotas-2EA043?style=for-the-badge" alt="Aberto a vagas remotas" />
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-Estou concluindo Ciência da Computação na **Universidade Federal do Ceará** (Russas, CE) e gosto de transformar problemas reais em software simples e útil.
+Estou concluindo Ciência da Computação na **Universidade Federal do Ceará** e gosto de transformar problemas reais em software simples e útil.
 
 - 🌐 Construí sites e portais para clientes reais na empresa júnior **Include Jr** (WordPress, HTML, CSS e JavaScript)
 - ⚙️ Automatizei rotinas internas no **Grupo Guanabara** com scripts, reduzindo trabalho manual e erros
@@ -24,12 +31,30 @@ Estou concluindo Ciência da Computação na **Universidade Federal do Ceará** 
 - 📊 Trabalho com dados: modelagem, SQL/PostgreSQL e tratamento de datasets com Python e Pandas
 - 🏠 **Busco uma oportunidade remota** para crescer em desenvolvimento web e de software
 
+---
+
 <details>
-<summary>🇺🇸 English summary</summary>
+<summary><b>🇺🇸 English profile (click to expand)</b></summary>
 
 <br />
 
-Computer Science student at the Federal University of Ceará (Brazil) with hands-on experience building websites for real clients, automating internal processes with scripts, and cleaning/analyzing data with Python. Advanced English. Open to **remote** junior full stack roles. Feel free to reach out!
+### About me
+
+Junior full stack developer and Computer Science student at the **Federal University of Ceará (UFC), Brazil**. I have built websites for real clients, automated internal business processes with scripts, and cleaned and analyzed data with Python. I work well independently, communicate clearly, and have **advanced English**. I'm looking for a **fully remote** role where I can keep growing as a developer.
+
+### Experience highlights
+
+- **Process automation, Grupo Guanabara (Feb–Jun 2025):** wrote scripts that automated customer registration in the company's system and started customer service sessions automatically from the waiting queue, cutting manual work and errors.
+- **Teaching assistant, Web Development, UFC (Jul–Dec 2024):** supported course activities and assessments and helped adapt an "Unplugged Computing" teaching approach that became the basis of a paper submitted to CSBC 2025.
+- **Web developer, Include Jr (Sep 2021–Aug 2022):** built institutional websites and custom portals for real clients with WordPress, HTML, CSS and JavaScript, handling requirements gathering, version control and responsive, accessible design.
+
+### Skills
+
+**Languages:** Python, JavaScript, Java, C, C++ · **Web:** HTML5, CSS3, WordPress · **Data:** PostgreSQL, SQL, data modeling, Pandas · **Tools:** Git, GitHub
+
+### Let's talk
+
+I'm open to remote junior full stack and web development opportunities. [Connect on LinkedIn](https://www.linkedin.com/in/rennis-pinheiro/) or email me at [rennissteam@gmail.com](mailto:rennissteam@gmail.com).
 
 </details>
 
@@ -42,7 +67,7 @@ Computer Science student at the Federal University of Ceará (Brazil) with hands
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
@@ -80,7 +105,6 @@ Computer Science student at the Federal University of Ceará (Brazil) with hands
   <img src="https://streak-stats.demolab.com?user=moonchilds2&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moonchilds2/moonchilds2/output/github-snake-dark.svg" />
@@ -88,25 +112,22 @@ Computer Science student at the Federal University of Ceará (Brazil) with hands
   </picture>
 </p>
 
-
 ---
 
 ## 💬 Vamos conversar?
 
-Clique em um botão abaixo: ele abre uma *issue* já preenchida aqui no meu perfil e eu respondo assim que possível.
+Escolha o canal que combina com você:
 
 <p align="center">
-  <a href="https://github.com/moonchilds2/moonchilds2/issues/new?title=%F0%9F%91%8B+Ol%C3%A1%2C+Rennis!&body=Oi%2C+vim+pelo+seu+perfil+e+gostaria+de+dizer+que...">
-    <img src="https://img.shields.io/badge/👋_Deixe_um_oi-2F81F7?style=for-the-badge" alt="Deixe um oi" />
-  </a>
-  <a href="https://github.com/moonchilds2/moonchilds2/issues/new?title=%F0%9F%92%BC+Oportunidade+de+trabalho&body=Empresa%3A+%0AVaga%3A+%0AModelo+%28remoto%2Fh%C3%ADbrido%29%3A+%0ALink+ou+detalhes%3A+">
-    <img src="https://img.shields.io/badge/💼_Proposta_de_trabalho-238636?style=for-the-badge" alt="Proposta de trabalho" />
-  </a>
-  <a href="https://github.com/moonchilds2/moonchilds2/issues/new?title=%F0%9F%92%A1+Ideia+de+projeto&body=Tive+uma+ideia%3A+">
-    <img src="https://img.shields.io/badge/💡_Ideia_de_projeto-F0883E?style=for-the-badge" alt="Ideia de projeto" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rennissteam@gmail.com&su=Oportunidade%20de%20trabalho&body=Ol%C3%A1%2C%20Rennis%21%0A%0AEmpresa%3A%0AVaga%3A%0AModelo%20%28remoto%2Fh%C3%ADbrido%29%3A%0ALink%20ou%20detalhes%3A%0A"><img src="https://img.shields.io/badge/Falar_sobre_uma_vaga-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Falar sobre uma vaga" /></a>
+  <a href="https://www.linkedin.com/in/rennis-pinheiro/"><img src="https://img.shields.io/badge/Chamar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Chamar no LinkedIn" /></a>
+  <a href="https://github.com/moonchilds2/moonchilds2/issues/new?title=Ol%C3%A1%2C%20Rennis%21&body=Oi%2C%20vim%20pelo%20seu%20perfil%20e%20queria%20dizer%20que..."><img src="https://img.shields.io/badge/Deixar_um_recado-F0883E?style=for-the-badge&logo=github&logoColor=white" alt="Deixar um recado" /></a>
 </p>
 
-Prefere algo mais direto? Me chame no [LinkedIn](https://www.linkedin.com/in/rennispinheiro) ou por [e-mail](mailto:rennissteam@gmail.com).
+<p align="center">
+  <sub>O botão de vaga abre um e-mail do Gmail já preenchido. O de recado abre uma issue pública aqui no perfil. Se preferir, escreva direto para <a href="mailto:rennissteam@gmail.com">rennissteam@gmail.com</a>.</sub>
+</p>
+
+<!-- O botão "Deixar um recado" exige Issues ativadas: Settings → General → Features → Issues. -->
 
 <p align="center"><sub>Feito com ☕ em Russas, Ceará · atualizado em 2026</sub></p>
